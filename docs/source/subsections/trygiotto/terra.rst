@@ -28,9 +28,9 @@ For additional information about billing account go to this `link <https://suppo
 Create A Workspace
 ======================================
 
-- Create a workspace within your billing account. 
-  
-.. note:: 
+- Create a workspace within your billing account.
+
+.. note::
         All users with access permissions to your workspace will share the same billing account.
 
 - Launch a Virtual Machine with a Cloud environment.
@@ -39,7 +39,7 @@ Create A Workspace
 Create a Cloud Environment
 ======================================
 
-In Terra, you can run Cloud Environments using Jupyter notebooks or the RStudio App. We recommend to your either the Juypyter notebook + Python + Bioconductor or RStudio + Bioconductor options. 
+In Terra, you can run Cloud Environments using Jupyter notebooks or the RStudio App. We recommend to your either the Juypyter notebook + Python + Bioconductor or RStudio + Bioconductor options.
 
 .. image:: /images/img_terra/01_environments.png
 
@@ -47,7 +47,7 @@ You can customize the memory usage, the number of CPUs, and the persistent disk 
 
 .. image:: /images/img_terra/01_vm.png
 
-Once you launched either a Jupyter notebook or the RStudio App, you can install the Giotto package using :bdg-link-primary:`RubD/Giotto/ <https://github.com/RubD/Giotto/>`.
+Once you launched either a Jupyter notebook or the RStudio App, you can install the Giotto package using :bdg-link-primary:`drieslab/Giotto/ <https://github.com/drieslab/Giotto/>`.
 
 
 If your prefer to launch a virtual machine ready to use, you can use our Terra-based Docker image, or the `Giotto's startup script <https://github.com/josschavezf/giotto_cloud/blob/main/startup_script.sh>`_ .
@@ -91,7 +91,7 @@ You can download the Startup Script from this `link <https://github.com/josschav
 Share your workspace with collaborators
 =========================================
 
-You can share your workspace with collaborators, including data, notebooks, and workflows stored in your workspace. 
+You can share your workspace with collaborators, including data, notebooks, and workflows stored in your workspace.
 
 - Go to the Dashboard tab on your workspace and click the three dots on the upper right corner.
 - Select Share option.
