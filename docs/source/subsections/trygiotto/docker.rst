@@ -47,9 +47,9 @@ Instructions
 
 Follow these instructions to create your own Docker container and run Giotto:
 
-1. docker pull ``giottopackage/rstudio_master:latest``
+1. docker pull ``giottopackage/master:latest``
 
-2. docker run ``-ti giottopackage/rstudio_master:latest /bin/bash``
+2. docker run ``-ti giottopackage/master:latest /bin/bash``
 
 3. R
 
