@@ -51,7 +51,7 @@ Now you can install the Giotto package by running the R commmand:
 
 .. code-block::
 
-    remotes::install_github('drieslab/Giotto')
+    remotes::install_github('drieslab/Giotto@master')
 
 
 Create a ready-to-use Cloud Environment with Giotto
@@ -60,13 +60,13 @@ Create a ready-to-use Cloud Environment with Giotto
 You can pre-install the Giotto package while launching the Jupyter notebook or the RStudio App.
 
 
-- To create a customized Jupyter notebook, use our Terra-based Docker image: giottopackage/terra_jupyter_suite:latest
+- To create a customized Jupyter notebook, use our Terra-based Docker image: giottopackage/terra_jupyter_master:latest
 
 
 .. image:: /images/img_terra/02_docker.png
 
 
-- To create a customized RStudio session use the startup script url: gs://fc-c374290b-2c96-4980-8b43-92770eebf1b1/suite.sh
+- To create a customized RStudio session use the startup script url: gs://fc-c374290b-2c96-4980-8b43-92770eebf1b1/master.sh
 
 
 .. image:: /images/img_terra/03_startup_script.png
