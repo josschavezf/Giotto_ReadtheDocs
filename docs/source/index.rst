@@ -6,10 +6,10 @@ Giotto Suite
    :maxdepth: 4
    :caption: General
    :hidden:
- 
+
    Branches <branches.rst>
    Documentation <documentation.rst>
-   Contribute <contribute.rst> 
+   Contribute <contribute.rst>
    News </subsections/datasets/giotto_news.rst>
    Presentations <presentations.rst>
 
@@ -29,7 +29,7 @@ Giotto Suite
    :maxdepth: 3
    :caption: Tutorials
 
-   Datasets <datasets.rst> 
+   Datasets <datasets.rst>
    Tools <tools.rst>
    Analyses <analyses.rst>
 
@@ -38,15 +38,15 @@ Giotto Suite
    :caption: Try Giotto in the Cloud
    :hidden:
 
-   Terra.bio </subsections/trygiotto/terra.rst> 
-   Docker </subsections/trygiotto/docker.rst> 
-   
+   Terra.bio </subsections/trygiotto/terra.rst>
+   Docker </subsections/trygiotto/docker.rst>
+
 .. toctree::
    :maxdepth: 1
    :caption: Issues
    :hidden:
-   
-   FAQs <faqs.rst> 
+
+   FAQs <faqs.rst>
    Troubleshooting <errorsfaqsandtips.rst>
    Report a Bug <github_issues.rst>
 
@@ -54,14 +54,14 @@ Giotto Suite
    :maxdepth: 1
    :caption: Updates
    :hidden:
- 
+
    Changelog <additionalinformation.rst>
-   
+
 .. image:: images/index/GiottoSuiteWebsite-07.svg
    :align: center
    :target: https://github.com/drieslab/Giotto/tree/suite
-   
-An open-source and technology-agnostic spatial multi-omics analysis platform 
+
+An open-source and technology-agnostic spatial multi-omics analysis platform
 ============================================================================
 
 Giotto Suite is a collection of open source software tools, including data structures and methods, for the comprehensive analysis and visualization of spatial multi-omics data at multiple scales and resolutions. It extends and improves our previous R package `Giotto`_. The underlying framework of Giotto Suite is generalizable to virtually all current and emerging spatial technologies which may differ in resolution (e.g. subcellular, single cell, or multiple cells), spatial dimension (i.e. 2D vs. 3D), molecular modality (e.g. protein, RNA, DNA, …), and throughput (i.e. number of cells and analytes). Giotto Suite is designed to ensure spatial analysis solutions remain compatible with current and future spatial -omics technologies and platforms. It will also aid in the further integration of spatial -omics with external analysis pipelines and tools.
@@ -70,9 +70,18 @@ Giotto Suite is a collection of open source software tools, including data struc
 
 The source code for Giotto Suite may be found on our `GitHub repository <https://github.com/drieslab/Giotto/tree/suite>`_.
 
+
+**********************************************
+Website Update!
+**********************************************
+
+With Giotto version 4.0, we updated the website at http://giottosuite.com, you can still find the previous website at https://giottosuite.readthedocs.io/en/latest/
+
+
+
 .. note::
         Giotto Suite is still in beta. We are actively developing the website content and source code of Giotto Suite ahead of the official release. We welcome any feedback or suggestions, please submit any bugs or issues on the Github page above.
-        
+
 **********************************************
 Workflow
 **********************************************
@@ -80,7 +89,7 @@ Workflow
 .. image:: images/index/GiottoSuiteWebsite_Compatibility.svg
    :width: 400
 
-Data Structure 
+Data Structure
 ===============
 
 .. image:: images/index/GiottoSuiteWebsite_Data Structure.svg
@@ -94,16 +103,16 @@ Analysis
 
 More technical information can be found in the `getting started section <https://giottosuite.readthedocs.io/en/latest/gettingstarted.html#learn-more-about-giotto-suite>`_.
 
-   
-References 
+
+References
 =============
 
 * `Dries, R., Zhu, Q. et al. Giotto, a toolbox for integrative analysis and visualization of spatial expression data. Genome Biology (2021). <https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02286-2>`_
 * `Dries, R., Chen, J., Rossi, N. del, Khan, M.M., Sistig, A., Yuan, G.-C., 2021. Advances in spatial transcriptomic data analysis. Genome Res. 31, 1706–1718 <https://genome.cshlp.org/content/31/10/1706?top=1>`_
 * `Del Rossi, N., Chen, J. et al. Analyzing Spatial Transcriptomics Data Using Giotto. Current Protocols (2022). <https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpz1.405>`_
-    
+
 **********************************
-Cite Giotto 
+Cite Giotto
 **********************************
 
 :ref:`Citing Giotto <citing_giotto>`
@@ -113,11 +122,11 @@ License
 *******************************
 :doc:`Full License </subsections/license>`
 
-.. github-shield:: 
+.. github-shield::
     :username: RubD
     :repository: Giotto
     :branch: suite
-    :license: 
+    :license:
 
 *******************************
 Community
@@ -126,11 +135,11 @@ Community
 :doc:`Code of Conduct <subsections/code_of_conduct>`
 
 ****************************
-Authors and Developers 
+Authors and Developers
 ****************************
 
 +------------------------+---------------------+
-|`Ruben Dries`_          |*Author, Maintainer* | 
+|`Ruben Dries`_          |*Author, Maintainer* |
 +------------------------+---------------------+
 | `Jiaji George Chen`_   |*Author*             |
 +------------------------+---------------------+
