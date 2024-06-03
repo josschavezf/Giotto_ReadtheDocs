@@ -61,6 +61,13 @@ Giotto Suite
    :align: center
    :target: https://github.com/drieslab/Giotto/tree/suite
 
+**********************************************
+WEBSITE UPDATE! PLEASE USE THE NEW WEBSITE
+**********************************************
+
+With Giotto version 4.0, we updated the website at http://giottosuite.com, you can still find the previous website at https://giottosuite.readthedocs.io/en/latest/
+
+
 An open-source and technology-agnostic spatial multi-omics analysis platform
 ============================================================================
 
@@ -69,14 +76,6 @@ Giotto Suite is a collection of open source software tools, including data struc
 .. _Giotto: https://github.com/drieslab/Giotto/tree/suite
 
 The source code for Giotto Suite may be found on our `GitHub repository <https://github.com/drieslab/Giotto/tree/suite>`_.
-
-
-**********************************************
-Website Update!
-**********************************************
-
-With Giotto version 4.0, we updated the website at http://giottosuite.com, you can still find the previous website at https://giottosuite.readthedocs.io/en/latest/
-
 
 
 .. note::
